@@ -1,19 +1,3 @@
-/*****************************************************************************
- Student Name: Arul Arora
- Student Number: 20902662
-
- SYDE 121 Assignment 3
- Filename: a3_q1
-
- I hereby declare that this code, submitted for credit for the course SYDE121,
- is a product of my own efforts. This coded solution has not been plagiarized
- from other sources and has not been knowingly plagiarized by others.
-
- Project: Soccer Simulation
- Purpose: Runs a simulation of a real life soccer game
- Due Date: Friday, October 30, 2020
-*****************************************************************************/
-
 /*
 To test my program I ran it 10 times. Each time I ran it, the outcome was completely
 different than any other time I ran it meaning that the randomness of this program
